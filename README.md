@@ -1,2 +1,2 @@
-# dio-desafio-github
-Desafio de projeto Digital Innovation One sobre Git/GitHub
+# DIO - Desafio Git/Github :dart:
+Desafio de projeto da Digital Innovation One sobre Git/GitHub
